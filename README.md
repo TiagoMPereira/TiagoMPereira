@@ -22,3 +22,8 @@
 - <a href="https://github.com/TiagoMPereira?tab=repositories&q=QoS&type=&language=&sort=">QoS</a>: The content of the Quality of Software subject on INATEL
 - <a href="https://github.com/TiagoMPereira?tab=repositories&q=CGMM&type=&language=&sort=">CGMM</a>: The content of the CG and Multimedia subject on INATEL
 - <a href="https://github.com/TiagoMPereira?tab=repositories&q=GAMES&type=&language=&sort=">GAMES</a>: Games developed while learning Processing
+
+
+<div style="color:green">
+    Markdown inline css styles
+</div>
