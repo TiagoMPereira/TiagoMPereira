@@ -40,7 +40,26 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Where to find me</h1>
-<a href="https://www.linkedin.com/in/tiago-pereira-demorais/">
-<img src="icons/linkedin_.gif" width="64px" align="center">
-</a>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/tiago-pereira-demorais/">
+<img src="icons/linkedin_.gif" width="64px" alt="Tiago Pereira"> 
+</a><br>
+Tiago Pereira
+
+<img src="icons/gmail.gif" width="64px" alt="tiagodemoraispereira@gmail.com">
+<br> tiagodemoraispereira@gmail.com
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="right"> Icons:
+<a href="https://www.flaticon.com/free-animated-icons/chemistry" title="chemistry animated icons">Flask</a> - 
+<a href="https://www.flaticon.com/free-animated-icons/robot" title="robot animated icons">Robot</a> - 
+<a href="https://www.flaticon.com/free-animated-icons/settings" title="settings animated icons">Gear</a> - 
+<a href="https://www.flaticon.com/free-animated-icons/product" title="product animated icons">Complete</a> - 
+<a href="https://www.flaticon.com/free-animated-icons/technology" title="technology animated icons">Photo</a> - 
+<a href="https://www.flaticon.com/free-animated-icons/game" title="game animated icons">Game</a> - 
+<a target="_blank" href="https://icons8.com/icon/POXm75zUw4wy/linkedin-circundado">LinkedIn</a> - 
+<a target="_blank" href="https://icons8.com/icon/vtr2UMMlkCpS/gmail">Gmail</a>
+</div>
