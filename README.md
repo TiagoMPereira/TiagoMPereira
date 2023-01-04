@@ -6,8 +6,6 @@
 <li style="list-style-type:square"> :microscope: I’m currently working as Data Scientist (Junior) at <a href="https://www.4intelligence.ai/"> 4intelligence </a>
 <li style="list-style-type:square"> :bulb: I’m interested in evolutionary algorithms, artificial intelligence, data science, machine learning and dinosaurs :t-rex:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center">My Repositories</h1>
 
 <picture> <img align="right" src="icons/flask.gif" width = 64px></picture><br>
@@ -33,8 +31,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/TiagoMPereira/">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiagoMPereira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoMPereira&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" height="300" alt="TiagoMPereira"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoMPereira&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="TiagoMPereira"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TiagoMPereira&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
+
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,8 +44,7 @@
 <a href="https://www.linkedin.com/in/tiago-pereira-demorais/">
 <img src="icons/linkedin_.gif" width="64px" alt="Tiago Pereira"> 
 </a><br>
-Tiago Pereira
-
+Tiago Pereira <br>
 <img src="icons/gmail.gif" width="64px" alt="tiagodemoraispereira@gmail.com">
 <br> tiagodemoraispereira@gmail.com
 </div>
