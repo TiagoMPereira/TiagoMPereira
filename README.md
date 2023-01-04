@@ -1,16 +1,10 @@
-### Tiago de Morais Pereira (21)
+<h1 align="center">Tiago de Morais Pereira (21)</h1>
 
 <ul>
 <li style="list-style-type:square"> :computer: Computer Engineering student at <a href="inatel.br/"> INATEL </a>
 <li style="list-style-type:square"> :earth_americas: I'm from Minas Gerais / Brazil
 <li style="list-style-type:square"> :microscope: I’m currently working as Data Scientist (Junior) at <a href="https://www.4intelligence.ai/"> 4intelligence </a>
-<li style="list-style-type:square"> 🌱 I’m currently learning ...
-<li style="list-style-type:square"> 👯 I’m looking to collaborate on ...
-<li style="list-style-type:square"> 🤔 I’m looking for help with ...
-<li style="list-style-type:square"> 💬 Ask me about ...
-<li style="list-style-type:square"> 📫 How to reach me: ...
-<li style="list-style-type:square"> ⚡ Fun fact: ...
-</ul>
+<li style="list-style-type:square"> :bulb: I’m interested in evolutionary algorithms, artificial intelligence, data science, machine learning and dinosaurs :t-rex:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -44,3 +38,9 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">Where to find me</h1>
+<a href="https://www.linkedin.com/in/tiago-pereira-demorais/">
+<img src="icons/linkedin_.gif" width="64px" align="center">
+</a>
+
