@@ -1,9 +1,9 @@
-<h1 align="center">Tiago de Morais Pereira (21)</h1>
+<h1 align="center">Tiago de Morais Pereira (23)</h1>
 
 <ul>
-<li style="list-style-type:square"> :computer: Computer Engineering student at <a href="inatel.br/"> INATEL </a>
+<li style="list-style-type:square"> :computer: Computer Engineer
 <li style="list-style-type:square"> :earth_americas: I'm from Minas Gerais / Brazil
-<li style="list-style-type:square"> :microscope: I’m currently working as Data Scientist (Junior) at <a href="https://www.4intelligence.ai/"> 4intelligence </a>
+<li style="list-style-type:square"> :microscope: I’m currently working as Data Scientist at <a href="https://www.4intelligence.ai/"> 4intelligence </a>
 <li style="list-style-type:square"> :bulb: I’m interested in evolutionary algorithms, artificial intelligence, data science, machine learning and dinosaurs :t-rex:
 
 <h1 align="center">My Repositories</h1>
